@@ -499,6 +499,9 @@ footer {
     height: 100%;
     margin: 0 auto;
   }
+  .line {
+    height: 128px;
+  }
   .feature-box {
     grid-template-columns: repeat(1, 1fr);
     height: 100%;
@@ -521,12 +524,18 @@ footer {
   .about-section {
     margin: 0px;
   }
+  .about-features {
+    margin: 0px 10px;
+  }
   .about-image-container {
     width: 100%;
   }
   .about-image-container > img {
     height: 200px;
     width: 200px;
+  }
+  .features-description {
+    margin: 0 4px;
   }
   .about-details {
     margin-left: 10px;
