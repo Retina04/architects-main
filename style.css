@@ -488,6 +488,7 @@ footer {
   .quick-list-features {
     flex-direction: column;
     height: 100%;
+    margin: 100px auto;
   }
   .quick-list-features-left {
     width: 100%;
@@ -498,6 +499,11 @@ footer {
     height: 100%;
     margin: 0 auto;
   }
+  /* .quick-list-features-content h1,
+  p {
+    padding-left: -100px;
+  } */
+
   .line {
     height: 150px;
   }
@@ -508,6 +514,7 @@ footer {
   }
   .feature-box img {
     width: 100%;
+    margin: 10px auto;
   }
   .btn-primary {
     height: 50px;
