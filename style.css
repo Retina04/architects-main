@@ -531,6 +531,10 @@ footer {
   .about-details {
     margin-left: 10px;
   }
+  /* .btn-extra-point {
+    top: 400vh;
+    margin-left: 10px;
+  } */
   .btn-secondary {
     width: 200px;
     height: 100px;
@@ -538,7 +542,7 @@ footer {
     font-size: 40px;
     line-height: 40px;
     margin: 20px 65px;
-    top: 485vh;
+    top: 425vh;
   }
   .fact-section {
     width: 80%;
