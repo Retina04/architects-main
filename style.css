@@ -86,7 +86,7 @@
 /* quick-list-features styling */
 
 .quick-list-features {
-  width: 80%;
+  width: 70%;
   height: 80vh;
 
   margin: 100px auto;
@@ -101,8 +101,8 @@
   gap: 10px;
 }
 .feature-box img {
-  height: 290px;
-  width: 290px;
+  height: 260px;
+  width: 260px;
 }
 .quick-list-features-right {
   width: 50%;
@@ -408,9 +408,7 @@ p {
   color: #131313;
   margin-bottom: 25px;
 }
-/* .sponsors p {
-  margin: 0 30px;
-} */
+
 .sponsor-details {
   color: #727272;
   font-weight: 400;
@@ -425,7 +423,7 @@ p {
   filter: grayscale(100%);
   padding: 70px 120px;
 }
-/* footer-styling */
+/* ................footer-styling................. */
 footer {
   margin-top: 130px;
   width: 100%;
